@@ -1,0 +1,214 @@
+.color{
+    background-color: #9d132c;    
+}
+nav{
+    height: 46px;    
+}
+.logo{
+    padding-top: 8px;
+    padding-left: 180px;
+}
+.font{
+    font-family: 'LatoLightItalic', sans-serif;
+    text-align: right;
+    font-size: 12px;
+    color: white;
+    height: 60px;
+    padding-top: 3px;
+}
+.btn-group :hover{
+    padding-top: 4px;
+    height: 53px;    
+    background-color: white;
+    color:#9d132c 
+}
+.index2 :hover{
+    padding-top: 4px;
+    height: 49px;    
+    background-color: white;
+    color:#9d132c 
+}
+.nav-link{
+    padding-top: 14px;
+}
+.btn-outline-danger{
+    position: absolute;
+    
+}
+.input-group{
+    background-color: black;
+    margin: 5px;
+    width: auto;    
+}
+.form-control{
+    height: auto;
+}
+.dropdown-menu{
+    background-color: black;
+}
+.input-group-text{
+    background-color: white;
+}
+.font2{
+    font-family: 'LatoLightItalic', sans-serif;
+    font-size: 12px;
+    color: 	#959595
+}
+.dropdown-menu :hover{
+    color:#9d132c;  
+}
+.dropdown2{
+    background-color:#282828;
+}
+.dropdown2 :hover{
+    background-color: #4a4a4a;
+    color: 	#959595
+}
+.card-body{
+    background-color: #191919;
+  
+}
+h5{
+   font-family: 'LatoLightItalic', sans-serif;
+   font-size: 13px;
+   font-style: italic;
+   color:#dfcd8d;
+   text-align: center;
+}
+.p1{
+    font-family: 'LatoLightItalic', sans-serif;
+    font-size: 13px;
+    color: #959595;
+    text-align: center;
+}
+.card1{
+    width: 260px;
+    height: 196PX;
+}
+.card2{
+    width: 260px;
+    height: 196px;
+}
+.buttonC1{
+    width: 110px;
+}
+.C1button{
+    padding-left: 50px;
+}
+.nuevastiendas{
+    width: 153px;
+    height: 257px;
+}
+.separador{
+    width: 1349px;
+}
+.nuevastiendas1{
+    width: 154px;
+    height: 258px;
+}
+.separador2{
+    width: 1364px;  
+}
+.tamaño{
+    width: 580.5px;
+}
+.botoncentral{
+    text-decoration: none;
+    font-family: 'LatoLightItalic', sans-serif;
+    font-size: 13px;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 57px;
+    padding-right: 58px;
+    background-color:#9d132c ;
+    border-color: #9d132c;
+    border-style: solid;
+}
+.productosfav{
+    width: 1365px;
+}
+.imagencapuccino{
+    padding-bottom: 20px;
+}
+.imagentorta{
+    padding-bottom: 20px;
+}
+.imagencroissant{
+    padding-bottom: 20px;
+}
+.imagenalmohabana{
+    padding-bottom: 20px;
+}
+.fav{
+    width: 72px;
+}
+.bg2{
+    background-color: black;
+}
+.menu{
+    font-family: 'LatoLightItalic', sans-serif;
+    font-size: 20px;
+    padding: 30px 10px 10px 20px;
+    color:#dfcd8d;
+}
+.productos{
+    padding-right: 15px;
+    padding-bottom: 15px;
+}
+.productosfinal{
+    padding-right: 15px;
+    padding-bottom: 100px;
+}
+.notescafe{
+    background-color: #FFFFCC;
+    background-image: url(https://juanvaldezcafe.com/sites/all/themes/bootstrap/img/bg-cont-autenticos.jpg);
+    background-repeat: repeat;
+    padding-bottom: 40px;
+}
+body{
+    background-color: #FFFFCC;
+    background-image: url(https://juanvaldezcafe.com/sites/all/themes/bootstrap/img/bg-cont-autenticos.jpg);
+    background-repeat: repeat;
+    
+}
+.cafenotas{
+    font-family: 'LatoLightItalic', sans-serif;
+    font-size: 13px;    
+    text-align: center;
+    color:#dfcd8d;
+    padding-left: 100px;
+    padding-top: 30px; 
+}
+.cafenotas2{
+    font-family: 'LatoLightItalic', sans-serif;
+    font-size: 13px;
+    color: #ffffff;
+    padding-left: 100px;
+    padding-bottom: 30px;
+}
+.tarjeta1{
+    background-color: #FFFFCC;
+    background-image: url(https://juanvaldezcafe.com/sites/all/themes/bootstrap/img/bg-cont-autenticos.jpg);
+    background-repeat: repeat;
+}
+.tarjeta2{
+    background-color: #FFFFCC;
+    background-image: url(https://juanvaldezcafe.com/sites/all/themes/bootstrap/img/bg-cont-autenticos.jpg);
+    background-repeat: repeat;
+}
+.red-bottom{
+    padding-top: 30px;
+    padding-right: 250px;
+    padding-bottom: 70px;
+}
+.bottom-red{
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.tituloproductos{
+    padding-top: 40px;
+}
+footer{
+    padding-top: 40px;
+}

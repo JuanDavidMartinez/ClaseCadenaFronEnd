@@ -1,0 +1,99 @@
+@media only screen and (max-width: 300px){
+    .menuhorizontal{
+        display: none;        
+    }
+    .titulonotas{
+        display: none;
+    }
+    .frasenotas{
+        display: none;
+    }
+}
+@media only screen and (max-width: 690px){
+    .card1{
+        width: 218px;
+        height: 200PX;
+    }
+    .card2{
+        width: 218px;
+        height: 200px;
+    }
+    .C1button{
+        padding-left: 25px;
+    }
+    .tarjeta1{
+        padding-bottom: 470px;
+    }
+    .tarjeta2{
+        padding-bottom: 470px;
+    }
+}
+
+@media only screen and (max-width: 772px){
+    .logo{
+        padding-top: 8px;
+        padding-left: 10px;        
+    }
+    .tarjeta1{
+        padding-bottom: 470px;
+    }
+    .tarjeta2{
+        padding-bottom: 470px;
+    }
+}
+@media only screen and (max-width: 968px){
+    .logo{
+        padding-top: 8px;
+        padding-left: 10px;    
+    }
+}
+@media only screen and (max-width: 1054px){
+    .font{
+      color: #9d132c;  
+    }
+    .btn-group :hover{        
+        padding-top: 0px;
+        height: 0px;    
+        background-color: #9d132c;
+        color:#9d132c;
+    }
+    
+}
+@media only screen and (max-width: 1200px){
+    .logo{
+        padding-top: 8px;
+        padding-left: 10px;        
+    }
+}
+@media only screen and (max-width: 1320px){
+    .font{        
+        font-size: 10px;
+          
+    }
+    .btn-group button{        
+        width: 115px; 
+        text-align: center; 
+    }
+    
+}
+@media only screen and (max-width: 520px){
+    .logo{
+        padding-top: 8px;
+        padding-left: 10px;        
+    }
+    .cafenotas{
+        font-family: 'LatoLightItalic', sans-serif;
+        font-size: 13px;    
+        text-align: center;
+        color:#dfcd8d;
+        padding-left: 30px;
+        padding-top: 30px; 
+    }
+    .cafenotas2{
+        font-family: 'LatoLightItalic', sans-serif;
+        font-size: 13px;
+        color: #ffffff;
+        padding-left: 30px;
+        padding-bottom: 30px;
+    }
+}
